@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+
+# Maven
+target/
+
+# Node
+**/node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
