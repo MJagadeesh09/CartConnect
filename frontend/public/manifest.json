@@ -1,0 +1,11 @@
+{
+  "short_name": "CartConnect",
+  "name": "CartConnect",
+  "icons": [
+    {
+      "src": "CartConnectLogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
